@@ -140,3 +140,6 @@ dmypy.json
 *.mp4
 *.mp3
 *.wav
+
+# temporary files and folders
+temp_dir/
