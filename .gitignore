@@ -143,3 +143,5 @@ dmypy.json
 
 # temporary files and folders
 temp_dir/
+
+module_1/multi_app/data
